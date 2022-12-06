@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "Improved Socket.IO Chat Example",
   "dependencies": {
-    "express": "^4.10.2",
+    "express": "^4.17.3",
     "ip": "^1.1.5",
     "socket.io": "^1.2.0"
   }
